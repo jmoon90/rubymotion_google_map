@@ -17,6 +17,7 @@ Add ProMotion
 
 #Challenges
 1) Figuring out how the random works in RubyMotion
+
 2) Making the button work to find a random location. 
 
 
