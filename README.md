@@ -12,7 +12,12 @@ that out
 Also, want to possibly locate random capitals instead of complete random
 location
 
+Add ProMotion
+
 
 #Challenges
 1) Figuring out how the random works in RubyMotion
 2) Making the button work to find a random location. 
+
+
+
